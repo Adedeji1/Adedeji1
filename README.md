@@ -62,11 +62,11 @@ A simple yet powerful weather forecasting app built using a **public weather API
 
 <div align="center">
 
-![Adedeji's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+![Adedeji's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adedeji1&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adedeji1&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Adedeji1&theme=tokyonight&hide_border=true)
 
 </div>
 
