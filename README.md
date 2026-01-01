@@ -1,22 +1,22 @@
-# 👋🏽 Hi there, I’m Afolabi Adedeji Ayomide  
+#  Hi there, I’m Afolabi Adedeji Ayomide  
 
-💻 **Frontend Engineer | Creative Developer | Problem Solver**
+ **Frontend Engineer | Creative Developer | Problem Solver**
 
 I’m passionate about transforming ideas into responsive, user-friendly, and meaningful web experiences.  
 With a strong foundation in **modern frontend technologies**, I love bringing clean design, smooth interactivity, and performance-driven code together to create impactful digital solutions.
 
 ---
 
-## 🚀 About Me  
+##  About Me  
 
-🌱 **Currently exploring:** Next.js, TypeScript, and API integration  
-🧠 **Core skills:** Building scalable and responsive UIs using React and Tailwind CSS  
-💡 **Design philosophy:** Functionality first, beauty next — but never one without the other  
-🤝 **Open to:** Collaborations on web projects, open-source contributions, and internships that challenge me to grow  
+ **Currently exploring:** Next.js, TypeScript, and API integration  
+ **Core skills:** Building scalable and responsive UIs using React and Tailwind CSS  
+ **Design philosophy:** Functionality first, beauty next — but never one without the other  
+ **Open to:** Collaborations on web projects, open-source contributions, and internships that challenge me to grow  
 
 ---
 
-## 🧰 Tech Stack  
+##  Tech Stack  
 
 **Languages & Frameworks**  
 `HTML` • `CSS` • `JavaScript` • `TypeScript` • `React` • `Next.js`  
@@ -29,14 +29,14 @@ API Integration • Responsive Design • Version Control (Git/GitHub)
 
 ---
 
-## 🌦️ Featured Project  
+##  Featured Project  
 
 ### [Weather Forecaster](#)  
 A simple yet powerful weather forecasting app built using a **public weather API**, allowing users to view accurate conditions for **any location worldwide** — clean design, fast response, and fully responsive.  
 
 ---
 
-## ⚡ Fun Facts  
+##  Fun Facts  
 
 - I see frontend development as **a bridge between imagination and interaction**.  
 - I enjoy turning static designs into **dynamic, intuitive interfaces**.  
@@ -44,21 +44,21 @@ A simple yet powerful weather forecasting app built using a **public weather API
 
 ---
 
-## 🌐 Let’s Connect  
+##  Let’s Connect  
 
 🔗 **All links in one place:** [linktr.ee/afolabiadedeji](https://linktr.ee/afolabiadedeji)
 
 ---
 
-## ✨ Quote I Live By  
+##  Quote I Live By  
 
 > “Code is the brush, and the web is the canvas — what you paint is limited only by your imagination.”  
 
 ---
 
-⭐️ _Thanks for visiting my profile — feel free to explore, fork, or connect!_  
+ _Thanks for visiting my profile — feel free to explore, fork, or connect!_  
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
