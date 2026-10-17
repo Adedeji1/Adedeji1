@@ -1,72 +1,47 @@
-#  Hi there, I’m Afolabi Adedeji Ayomide  
+# Hi, I'm Adedeji 👋
 
- **Frontend Engineer | Creative Developer | Problem Solver**
+**Frontend Engineer** at Jolo Logistics · Nigeria
 
-I’m passionate about transforming ideas into responsive, user-friendly, and meaningful web experiences.  
-With a strong foundation in **modern frontend technologies**, I love bringing clean design, smooth interactivity, and performance-driven code together to create impactful digital solutions.
+I build fast, responsive web interfaces with React, Next.js and TypeScript.
 
----
-
-##  About Me  
-
- **Currently exploring:** Next.js, TypeScript, and API integration  
- **Core skills:** Building scalable and responsive UIs using React and Tailwind CSS  
- **Design philosophy:** Functionality first, beauty next — but never one without the other  
- **Open to:** Collaborations on web projects, open-source contributions, and internships that challenge me to grow  
+[Portfolio]((https://afolabi-portfolio-psi.vercel.app/)) · [LinkedIn](https://www.linkedin.com/in/afolabi-adedeji-4019a6225/) · [Linktree](https://linktr.ee/afolabiadedeji)
 
 ---
 
-##  Tech Stack  
+## Currently
 
-**Languages & Frameworks**  
-`HTML` • `CSS` • `JavaScript` • `TypeScript` • `React` • `Next.js`  
-
-**Styling & Tools**  
-`Tailwind CSS` • `Styled Components`  
-
-**Others**  
-API Integration • Responsive Design • Version Control (Git/GitHub)
+- 🏢 Building **Jolo Servante**, a web admin manager for Jolo applications (private company repo)
+- 🌱 Deepening Next.js, TypeScript and API integration
+- 🤝 Open to collaborations and open-source contributions
 
 ---
 
-##  Featured Project  
+## Tech Stack
 
-### [Weather Forecaster](#)  
-A simple yet powerful weather forecasting app built using a **public weather API**, allowing users to view accurate conditions for **any location worldwide** — clean design, fast response, and fully responsive.  
-
----
-
-##  Fun Facts  
-
-- I see frontend development as **a bridge between imagination and interaction**.  
-- I enjoy turning static designs into **dynamic, intuitive interfaces**.  
-- Music fuels my focus 🎧 — and a bit of color theory always sneaks into my code.  
-
----
-
-##  Let’s Connect  
-
-🔗 **All links in one place:** [linktr.ee/afolabiadedeji](https://linktr.ee/afolabiadedeji)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-##  Quote I Live By  
+## Projects
 
-> “Code is the brush, and the web is the canvas — what you paint is limited only by your imagination.”  
+| Project | What it is | Stack | Links |
+| --- | --- | --- | --- |
+| **[alx-project-nexus](https://github.com/Adedeji1/alx-project-nexus)** | Movie recommendation app from the ALX ProDev Frontend program, with REST and GraphQL data fetching, typed components, and loading and error states | Next.js, TypeScript, Tailwind | [Live](https://alx-project-nexus-tau-neon.vercel.app/) |
+| **[YPL](https://github.com/Adedeji1/YPL)** | Web app built from a Figma design | React, TypeScript, Vite | [Live](https://ypl-fawn.vercel.app) |
+| **[B-J_lawn](https://github.com/Adedeji1/B-J_lawn)** | Responsive website built from a design | React, TypeScript, Vite | [Live](https://b-j-lawn.vercel.app) |
+| **Jolo Servante** | Admin dashboard for managing Jolo applications | Private repo | In progress |
 
 ---
 
- _Thanks for visiting my profile — feel free to explore, fork, or connect!_  
+## Get in touch
 
-##  GitHub Stats
-
-<div align="center">
-
-![Adedeji's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adedeji1&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adedeji1&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Adedeji1&theme=tokyonight&hide_border=true)
-
-</div>
-
+📫 [LinkedIn](https://www.linkedin.com/in/afolabi-adedeji-4019a6225/) · 🌐 [Portfolio](https://adedeji-portfolio-psi.vercel.app/)
