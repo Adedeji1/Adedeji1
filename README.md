@@ -1,4 +1,4 @@
-# Hi, I'm Adedeji 👋
+# Hi, I'm Adedeji
 
 **Frontend Engineer | React · Next.js · TypeScript**
 
